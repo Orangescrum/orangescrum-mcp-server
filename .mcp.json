@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "orangescrum": {
+      "type": "http",
+      "url": "https://mcp.orangescrum.com/mcp/partner"
+    }
+  }
+}

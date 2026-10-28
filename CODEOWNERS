@@ -1,0 +1,4 @@
+# Global code owners for the Orangescrum MCP Server repository
+# These users will be automatically requested for review on all pull requests
+
+* @amit-orangescrum

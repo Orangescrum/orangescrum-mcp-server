@@ -1,0 +1,9 @@
+{
+  "name": "orangescrum-mcp-server",
+  "version": "1.0.0",
+  "mcpServers": {
+    "orangescrum-mcp-server": {
+      "httpUrl": "https://mcp.orangescrum.com/mcp/partner"
+    }
+  }
+}

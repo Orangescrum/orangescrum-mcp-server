@@ -1,0 +1,9 @@
+{
+  "name": "orangescrum-mcp-server-package",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test scripts/*.test.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "orangescrum",
+  "version": "1.0.0",
+  "description": "Connect AI agents to Orangescrum projects, tasks, users, sprints, test cases, and releases, with reusable skills for common workflows.",
+  "author": {
+    "name": "Orangescrum",
+    "url": "https://www.orangescrum.com"
+  },
+  "homepage": "https://helpdesk.orangescrum.com/guide/mcp/introduction",
+  "repository": "https://github.com/Orangescrum/orangescrum-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "orangescrum",
+    "mcp",
+    "project-management",
+    "tasks",
+    "sprints",
+    "test-management",
+    "release-management",
+    "scaled-agile"
+  ]
+}

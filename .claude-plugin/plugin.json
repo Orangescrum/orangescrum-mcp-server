@@ -1,0 +1,10 @@
+{
+  "name": "orangescrum",
+  "displayName": "Orangescrum MCP",
+  "description": "Connect to Orangescrum. Search and create tasks, plan sprints, file defects, check release readiness, and bring project data into your development workflow.",
+  "author": {
+    "name": "Orangescrum"
+  },
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}

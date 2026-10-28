@@ -1,0 +1,16 @@
+# MCP Registry signing key. Lives in the team password manager and is only
+# needed when publishing. Never commit it. See docs/publishing.md.
+key.pem
+*.pem
+.mcpregistry_*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
+
+# Local Node.js tooling
+node_modules/

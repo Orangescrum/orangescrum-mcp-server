@@ -1,0 +1,17 @@
+{
+  "name": "orangescrum",
+  "displayName": "Orangescrum MCP",
+  "description": "Orangescrum plugin for Cursor with MCP and skills for tasks, sprints, defects, backlogs, status reports, and release readiness.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Orangescrum",
+    "url": "https://www.orangescrum.com"
+  },
+  "homepage": "https://helpdesk.orangescrum.com/guide/mcp/introduction",
+  "repository": "https://github.com/Orangescrum/orangescrum-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": ["orangescrum", "mcp", "project-management", "sprints", "test-management", "skills"],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

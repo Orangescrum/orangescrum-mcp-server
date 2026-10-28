@@ -1,0 +1,15 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🛠️ Need a faster reply, or hit a product issue?
+    url: mailto:support@orangescrum.com
+    about: >-
+      Heads up: we don't watch this repo full time, so we can't promise a
+      reply here. If you're stuck, or the problem is with the hosted server
+      itself (mcp.orangescrum.com, sign-in, scopes, workspace access, or
+      Orangescrum), Orangescrum Support is staffed and usually faster.
+  - name: 📖 Setup guides and troubleshooting
+    url: https://helpdesk.orangescrum.com/guide/mcp/introduction
+    about: Step-by-step client setup, authentication, the tool reference, and fixes for common errors.
+# Note: GitHub automatically adds a "Report a security vulnerability" entry to
+# this chooser because the repo has a SECURITY.md. We intentionally do not add a
+# second one here to avoid a duplicate.

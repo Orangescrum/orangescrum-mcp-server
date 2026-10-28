@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "orangescrum",
+  "description": "Orangescrum plugin marketplace for Claude Code",
+  "owner": {
+    "name": "Orangescrum",
+    "email": "support@orangescrum.com"
+  },
+  "plugins": [
+    {
+      "name": "orangescrum",
+      "displayName": "Orangescrum MCP",
+      "description": "Connect to Orangescrum. Search and create tasks, plan sprints, file defects, check release readiness, and bring project data into your development workflow.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Orangescrum",
+        "email": "support@orangescrum.com"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/Orangescrum/orangescrum-mcp-server"
+    }
+  ]
+}

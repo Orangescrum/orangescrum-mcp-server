@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.orangescrum/orangescrum-mcp-server",
+  "description": "Manage Orangescrum projects, tasks, users, sprints, test cases, releases, and risks from AI tools.",
+  "title": "Orangescrum MCP Server",
+  "version": "1.0.0",
+  "websiteUrl": "https://helpdesk.orangescrum.com/guide/mcp/introduction",
+  "repository": {
+    "url": "https://github.com/Orangescrum/orangescrum-mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.orangescrum.com/mcp/partner"
+    }
+  ]
+}
