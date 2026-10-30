@@ -19,7 +19,7 @@
 <!-- Line 2 · Protocol & access -->
 <p align="center">
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/Model_Context_Protocol-compatible-000000?logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol compatible"></a>
-  <a href="server.json"><img src="https://img.shields.io/badge/MCP_Registry-com.orangescrum-000000?logo=modelcontextprotocol&logoColor=white" alt="MCP Registry: com.orangescrum"></a>
+  <a href="https://registry.modelcontextprotocol.io/v0.1/servers?search=com.orangescrum%2Forangescrum-mcp-server"><img src="https://img.shields.io/badge/MCP_Registry-com.orangescrum-000000?logo=modelcontextprotocol&logoColor=white" alt="MCP Registry: com.orangescrum"></a>
   <a href="https://helpdesk.orangescrum.com/guide/mcp/authentication"><img src="https://img.shields.io/badge/Auth-OAuth_2.1_%2B_PKCE-2EBC4F" alt="Auth: OAuth 2.1 with PKCE"></a>
   <a href="https://www.orangescrum.com"><img src="https://img.shields.io/badge/Hosting-Orangescrum_Cloud-F47722" alt="Hosting: Orangescrum Cloud"></a>
 </p>
